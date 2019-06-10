@@ -16,5 +16,4 @@ mvn spring-boot:run
 
 * [MVN Repository](https://mvnrepository.com/)
 * [Spring Initializr](https://start.spring.io/)
-
-> Será adicionado um link para uma video aula desse projeto
+* [Gravação da aula](https://youtu.be/MscRHFWybx0)
